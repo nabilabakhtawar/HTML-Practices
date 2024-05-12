@@ -1,0 +1,34 @@
+body{
+    background-color: aliceblue;
+}
+.heading{
+    background-color: brown;
+}
+.heading {
+    background-color: brown;
+}
+    
+.heading1{
+    color: black;
+}
+.heading2{
+    color: blue;
+}
+.heading3{
+    color: blueviolet;
+}
+.heading4{
+    color: coral;
+}
+.heading5{
+    color: darkgoldenrod;
+}
+#one{
+    background-color: blue; color: aquamarine;
+}
+#two{
+    background-color: coral;color: cornflowerblue;
+}
+#three{
+    background-color: darkorange;color: darkgray;
+}

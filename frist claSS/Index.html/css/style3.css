@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+
+}
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.box{
+    float: left;
+}
+
+.box1 {
+    color: brown;
+    margin-right: 2px;
+    padding: 2px;
+    border: 2px;
+}
+.box2{
+    color: blue;
+    margin-left: 20px;
+    padding: 2px;
+    border:2px ;
+
+}
+
+  

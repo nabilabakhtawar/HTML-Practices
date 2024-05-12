@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+}
+
+.heading1 {
+    background-color: brown;
+    color: black;
+}
+
+.heading2 {
+    background-color: brown;
+    color: blueviolet;}
+#heading1{
+    background-color: darkmagenta;color: azure;
+}
+#heading2{
+    background-color: blue;color: darkslateblue;
+}

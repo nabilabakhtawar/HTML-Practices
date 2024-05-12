@@ -1,0 +1,23 @@
+.box {
+  background-color: black;
+  color: yellow;
+  text-align: center;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin: 2px;px;
+}
+.box1{
+  border: 20px solid blue;
+}
+.box2{
+  border: 20px solid brown;
+}
+.box3{
+  border: 20px solid yellow;
+}
+.box4{
+  border: 20px solid green;
+}
